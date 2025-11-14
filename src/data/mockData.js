@@ -1,3 +1,12 @@
+export const projectMentor = {
+  name: "Dr. Manjusha Tatiya",
+  role: "Project Mentor",
+  image: "/team/dr-manjusha.jpg", // Add her photo here
+  linkedin: "https://www.linkedin.com/in/dr-manjusha-tatiya-2228b421/",
+  designation: "HOD of  Artificial Intelligence and Data Science",
+  department: "HOD of  Artificial Intelligence and Data Science",
+};
+
 export const mockTeam = [
   {
     name: "Vaishnavi Katikar",
